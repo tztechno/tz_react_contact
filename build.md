@@ -1,3 +1,5 @@
+
+```
 cd app
 
 npx create-react-app .
@@ -13,3 +15,4 @@ git add .
 git commit -m "2024-11-13"
 git push -u origin master
 git push -f origin master
+```
